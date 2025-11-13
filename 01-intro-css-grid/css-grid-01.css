@@ -23,7 +23,7 @@
     align-items: center;
 
 /* alinhar o grid */
-
+    height: 100vh;
     /* alinhar no eixo horinzoltal */
     justify-content: center;
 
